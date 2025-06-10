@@ -46,7 +46,7 @@ const Admission = () => {
                     <li><b>Fee Payment:</b>Complete the admission by paying the required fees.</li>
                 </ol>
 
-               <p id="p">For detailed information on postgraduate program admissions, specific program syllabi, and fee structures, please visit our <a href=""data-discover="true">Courses page</a>or<a href=""data-discover="true">Contact us</a>directly</p>
+               <p id="p">For detailed information on postgraduate program admissions, specific program syllabi, and fee structures, please visit our <a href="/Courses" data-discover="true">Courses page</a>or<a href="/Contact" data-discover="true">Contact us</a>directly</p>
 
             </table>
         <div>

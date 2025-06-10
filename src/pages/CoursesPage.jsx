@@ -79,7 +79,7 @@ const Courses = () => {
              </table>
              <h2 className="ul">Specialized & Vocational Courses</h2>
              <p id="p">In addition to traditional degree programs, we offer various certificate and diploma courses in areas like Digital Marketing, Web Development, Data Analytics, and Soft Skills Development, providing specialized training for career enhancement.<br></br>Have questions about a specific course?</p>
-            <a href="/ContactPage"><button className="green">Inquire About Courses</button></a>
+            <a href="/Contact"><button className="green">Inquire About Courses</button></a>
         <div>
             <Footer/>
         </div>
