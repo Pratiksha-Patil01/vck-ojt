@@ -1,0 +1,30 @@
+#ss {
+  width: 100%;
+  height:250px;
+  filter:brightness(50%);
+  border-radius: 8px;
+  position: relative;
+}
+
+.over {
+  position: absolute;
+  top: 20%;
+  left: 19%;
+  text-align: center;
+  color: white;
+  text-shadow: 1px 1px 4px #000;
+}
+
+#p {
+  color: black;
+}
+
+ul {
+  color: black;
+  text-align: justify;
+}
+.img {
+  width: 500px;
+  height:200px;
+}
+

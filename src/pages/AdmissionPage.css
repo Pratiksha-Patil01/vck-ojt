@@ -1,0 +1,28 @@
+root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color:white;
+  color: rgb(0, 145, 255);
+
+}
+#p {
+  color: black;
+}
+#s {
+  background-color: #888;
+}
+#table {
+  color:black;
+  border-color: rgb(0, 0, 0);
+}
+
+.ul {
+  color: black;
+  text-align: justify;
+}
+
+#c {
+  background-color: aliceblue;
+}

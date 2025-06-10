@@ -1,0 +1,164 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color:white;
+  color: rgb(0, 145, 255);
+
+}
+#p {
+  color: black;
+}
+#link {
+  text-align: justify;
+}
+#s {
+  background-color: #888;
+}
+.notfound {
+  color: black;
+}
+#c {
+  background-color: aliceblue;
+}
+.green {
+  background-color: green;
+}
+
+.menu-icon {
+  display: none;
+  font-size: 26px;
+  color: white;
+  cursor: pointer;
+}
+
+
+
+#t {
+  border: 30px;
+  color: white;
+  background-color: black;
+}
+
+#pp {
+  color:black;
+}
+
+.button {
+  color: blue;
+  background-color: green;
+}
+
+#img {
+  object-position:absolute ;
+  z-index: inherit;
+  width:1000px;
+
+}
+
+#table {
+  color:black;
+  border-color: rgb(0, 0, 0);
+}
+
+.video {
+  width: 1500px;
+  height:400px;
+border: 30px;
+}
+
+.ul {
+  color: black;
+  text-align: justify;
+}
+.img {
+  width: 500px;
+  height:200px;
+}
+
+#ss {
+  width: 100%;
+  height:250px;
+  filter:brightness(50%);
+  border-radius: 8px;
+  position: relative;
+}
+
+.pc {
+  align-items: flex-start;
+}
+
+.over {
+  position: absolute;
+  top: 20%;
+  left: 19%;
+  text-align: center;
+  color: white;
+  text-shadow: 1px 1px 4px #000;
+}
+
+.logo {
+  color: white;
+  font-size:1.5rem;
+  font-weight: bold;
+}
+
+.nav-links {
+  display:flex;
+  gap:1.5rem;
+  align-items:center;
+  color: white;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+#id {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#menu-icon {
+  display: block;
+}
+
+#menu-icon {
+  display: none;
+  font-size: 26px;
+  color: white;
+  cursor: pointer;
+}
+
+.nav-links {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+} */
