@@ -13,7 +13,7 @@ const  Home = () => {
             <div className="over">
             <h1>Welcome to Vivekanand college!</h1>
             <p>Your journey to excellence starts here</p>
-             <a href="Admission"> <button className="button">Apply Now!</button></a>
+             <Link href="Admission"> <button className="button">Apply Now!</button></Link>
              </div>
 
 
@@ -37,7 +37,7 @@ const  Home = () => {
             <p id="p">Explore our vibrant campus and state-of-the-art facilities designed to enhance your learning experience and personal growth.</p>
             <p id="p">Ready to explore our courses?</p>
 
-            <a href="Courses"><button className='green'>Explore update!</button></a>
+            <Link to="Courses"><button className='green'>Explore update!</button></Link>
         <div>
             <Footer/>
         </div>
