@@ -13,7 +13,7 @@ const  Home = () => {
             <div className="over">
             <h1>Welcome to Vivekanand college!</h1>
             <p>Your journey to excellence starts here</p>
-             <Link href="Admission"> <button className="button">Apply Now!</button></Link>
+             <Link to="Admission"> <button className="button">Apply Now!</button></Link>
              </div>
 
 
