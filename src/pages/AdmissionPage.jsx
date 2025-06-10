@@ -47,7 +47,7 @@ const Admission = () => {
                 </ol>
 
                <p id="p">For detailed information on postgraduate program admissions, specific program syllabi, and fee structures, please visit our 
-                <a href="/Courses" data-discover="true">Courses page</a>or<a href="/Contact" data-discover="true">Contact us</a>directly</p>
+                <Link to="/Courses" data-discover="true">Courses page</Link>or<Link to="/Contact" data-discover="true">Contact us</Link>directly</p>
 
             </table>
         <div>
