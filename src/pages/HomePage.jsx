@@ -37,7 +37,7 @@ const  Home = () => {
             <p id="p">Explore our vibrant campus and state-of-the-art facilities designed to enhance your learning experience and personal growth.</p>
             <p id="p">Ready to explore our courses?</p>
 
-            <Link to="Courses"><button className='green'>Explore update!</button></Link>
+            <Link to="Courses"><button className='green'>Explore Courses!</button></Link>
         <div>
             <Footer/>
         </div>
