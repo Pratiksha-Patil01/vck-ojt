@@ -19,7 +19,7 @@
   color: black;
 }
 
-ul {
+.ul {
   color: black;
   text-align: justify;
 }
@@ -28,3 +28,23 @@ ul {
   height:200px;
 }
 
+.page-container {
+  max-width: 1300px;
+  /* Max width for content to prevent it from stretching too wide */
+  height: 300px;
+  margin: 70px ;
+  /* Center the content with some top/bottom margin */
+  padding: 10px;
+  background-color: #FFFFFF;
+  /* White background for page content */
+  border-radius: 15px;
+  /* Slightly rounded corners */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  /* Subtle shadow */
+  margin-bottom: 50px;
+}
+
+#bg {
+  color: black;
+  background-color: aqua;
+}

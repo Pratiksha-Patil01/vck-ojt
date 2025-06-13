@@ -1,0 +1,33 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color:white;
+  color: rgb(0, 145, 255);
+
+}
+#p {
+  color: black;
+}
+
+.ul {
+  color: black;
+  text-align: justify;
+}
+
+
+.page-container {
+  max-width: 960px;
+  /* Max width for content to prevent it from stretching too wide */
+  height: 500px;
+  margin: 20px auto;
+  /* Center the content with some top/bottom margin */
+  padding: 20px;
+  background-color: #FFFFFF;
+  /* White background for page content */
+  border-radius: 8px;
+  /* Slightly rounded corners */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  /* Subtle shadow */
+}
